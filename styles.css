@@ -32,7 +32,7 @@
     min-width: 35vw;
     min-height: 100vh;
     background-color: rgb(195, 190, 190);
-    background: url(/images/img-background.jpg);
+    background: url(./images/img-background.jpg);
     background-size: cover;
 }
 
